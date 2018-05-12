@@ -1,4 +1,8 @@
 _repo: Life-in-a-German-Crack-Regiment_46755
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46755-h/images/cover.jpg
 creator:
   author:
     agent_name: Baudissin, Wolf Ernst Hugo Emil, Graf von
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43937
     wikipedia: http://de.wikipedia.org/wiki/Wolf_Ernst_Hugo_Emil_von_Baudissin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46755#Life-in-a-German-Crack-Regiment
 gutenberg_issued: '2014-09-02'
 gutenberg_type: Text
 identifiers:
